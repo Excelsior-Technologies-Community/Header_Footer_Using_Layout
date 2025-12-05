@@ -13,6 +13,31 @@
 
 
 
+✨ //Layout Code
+
+    <body>
+
+    {{-- Header --}}
+    @include('products.header')
+
+    {{-- Page Content --}}
+    <div class="container mt-4">
+        @yield('content')
+    </div>
+
+    {{-- Footer --}}
+    @include('products.footer')
+
+    {{-- JS --}}
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    </body>
+
+
+
+
+
+
   ✨//OUTPUT
  <img width="1150" height="459" alt="image" src="https://github.com/user-attachments/assets/0c1c0a1e-7a0e-44ac-a289-f7c67cd0a623" />
 
