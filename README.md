@@ -1,5 +1,4 @@
 # 🚀 Laravel 11 Header–Footer Layout + Product CRUD  
-### **Made with ❤️ by Hardik Panchal**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-11.x-ff2d20?style=for-the-badge&logo=laravel" />
